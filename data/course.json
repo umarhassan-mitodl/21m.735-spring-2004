@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theatrical Design"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ]
+  ],
+  "legacy_uid": "387d4e67-fa82-bf5d-6b20-523cbe8e3507",
+  "instructors": {
+    "content": [
+      "5467c6e9-73ac-b623-102b-08c23f560747"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bcf9fbca-09e6-3a78-7bed-eb10e4c2a4df",
+    "website": "21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004"
+  },
+  "course_title": "Technical Design: Scenery, Mechanisms, and Special Effects",
+  "course_description": "This class looks at the special structural and practical needs of theatrical scenery and effects and how they can be constructed. We map the technical design process from initial meetings to realization on stage. The class emphasizes safety, budgeting, and problem solving. Ten 1-3 page Tech notes are required as well as a final project. Work includes actual production assignments as well as paper design projects.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.735",
+  "course_image_thumbnail": {
+    "content": "93296f81-a26f-7f8a-a347-eb9490d7a9b2",
+    "website": "21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "2d01f27f-80f3-4fdb-bd3d-3fda08967573",
+  "site_short_id": "21m.735-spring-2004",
+  "site_url_path": "courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004",
+  "title": "Course Metadata"
+}
